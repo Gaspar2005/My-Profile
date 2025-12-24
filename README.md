@@ -1,5 +1,5 @@
 # My-Profile
-# 👋 Hola, soy Gaspar
+# 👋 Hi, im Gaspar
 
 🎓 Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires (UBA)  
 💻 Actualmente cursando 1er año  
@@ -13,7 +13,7 @@
   C · JavaScript · Bash  
 
 - **Backend:**  
-  Node.js · Express  
+  Node.js · Express · docker
 
 - **Frontend:**  
   HTML · CSS  
