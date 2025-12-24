@@ -1,2 +1,46 @@
 # My-Profile
-about me
+# 👋 Hola, soy Gaspar
+
+🎓 Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires (UBA)  
+💻 Actualmente cursando 1er año  
+🚀 Interesado en desarrollo de software, backend y sistemas
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:**  
+  C · JavaScript · Bash  
+
+- **Backend:**  
+  Node.js · Express  
+
+- **Frontend:**  
+  HTML · CSS  
+
+- **Bases de datos:**  
+  SQL  
+
+- **Sistemas:**  
+  Linux · Shell scripting  
+
+---
+
+## 📚 Actualmente aprendiendo
+- Estructuras de datos y algoritmos
+- Programación en C a bajo nivel
+- Desarrollo backend con JavaScript
+- Uso de Linux como entorno principal
+
+---
+
+## 🎯 Objetivos
+- Afianzar fundamentos de ingeniería de software  
+- Construir proyectos sólidos y bien documentados  
+- Seguir creciendo en backend y sistemas  
+
+---
+
+## 📫 Contacto
+- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+
