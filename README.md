@@ -42,5 +42,6 @@
 ---
 
 ## 📫 Contacto
-- GitHub: [@gaspar2005](https://github.com/tu-usuario)
-
+- GitHub: [@gaspar2005](https://github.com/gaspar2005)
+- linkedln : [GasparChab] (https://www.linkedin.com/in/gasparchab)
+- instagram : [Gaspar_Chab] (https://www.instagram.com/gaspar_chab)
